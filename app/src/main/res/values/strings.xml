@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">lab13</string>
+    <string name="text_first">First number</string>
+    <string name="text_first_hint">Input first number</string>
+    <string name="text_second">Second number</string>
+    <string name="text_second_hint">Input second number</string>
+    <string name="text_add">Add</string>
+    <string name="text_sub">Sub</string>
+    <string name="text_mul">Mul</string>
+    <string name="text_div">Div</string>
+    <string name="text_sin">Sin</string>
+    <string name="text_cos">Cos</string>
+    <string name="text_tan">Tan</string>
+    <string name="text_sqrt">Sqrt</string>
+    <string name="text_pow">Pow</string>
+    <string name="text_mod">Mod</string>
+    <string name="rb_radian">Radian</string>
+    <string name="rb_degree">Degree</string>
+    <string name="text_history">Open history</string>
+    <string name="text_quest">Answer: </string>
+    <string name="text_view_history">History:</string>
+    <string name="text_back">Back</string>
+</resources>
